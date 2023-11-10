@@ -1,0 +1,33 @@
+problem solving *************
+
+=> hands on - how speed u can code.
+=> how short ur code is
+=> explain ur code while doing it.
+=> guvi => g u v i=>split and join => spread operator(...)
+
+Q1.find a factorial of a number using javascript.
+Q2.check whether the number is prime or not.=> itself and 1.
+Q3.print a pyramid/diamond pattern.*
+Q4.add two numbers without using +.
+Q5.write a function frequency to check frequency of each element
+i/p= [1,2,2,1,3,4,3,4,1] => o/p= {1:3, 2:2, 3:2, 4:2}
+Q6.create fibonacci series using for loop
+
+
+programiz
+onecompiler
+techie delight
+python tutor.
+codesandbox
+
+1. understand the problem
+2. devise a plan
+3. carryout the plan
+4. look back
+
+=> solve different problems in different platforms
+=> solve problems in different situations
+=> learn from past and apply them to new problems
+=> ask others for help and feedback
+=> solve problems regularly to keep the problem solving part of your brain strong.(sudoku)
+=> practice other skills that support good problem solving like critical thinking and communication.
